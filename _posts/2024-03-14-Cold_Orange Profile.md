@@ -1,5 +1,5 @@
 ---
-title: Text and Typography
+title: Cold_Orange Profile
 author: Cold_Orange
 date: 2024-03-14 18:22:00 +0800
 categories: [Profile, Cold_Orange]
