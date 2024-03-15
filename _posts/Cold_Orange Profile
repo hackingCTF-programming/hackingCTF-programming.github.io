@@ -1,12 +1,10 @@
 ---
-title: "Text and Typography"
-author: "cotes"
+title: Text and Typography
+author: Cold_Orange
 date: 2024-03-14 18:22:00 +0800
-categories: ["Profile", "Cold_Orange"]
-tags: ["Cold_Orange", "sjy", "redfox999@naver.com"]
-pin: true
-math: true
-mermaid: true
+categories: [Profile, Cold_Orange]
+tags: [Cold_Orange, sjy, redfox999@naver.com]
+render_with_liquid: false
 ---
 
 ### 경력
@@ -34,4 +32,3 @@ mermaid: true
 자격증
 2015년 12월 / CCNA (Cisco Certification Network Associate)
 2011년 6월 / 국제표준 컴퓨터활용능력 ICDL
----
