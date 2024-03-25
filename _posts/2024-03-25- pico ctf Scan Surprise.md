@@ -8,6 +8,6 @@ tags: [Cold_Orange, sjy, redfox999@naver.com]
 
 ## pico ctf Scan Surprise
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OO9vBca"><a href="https://imgur.com/a/OO9vBca">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/yJ7sS9g)
 
 ---
