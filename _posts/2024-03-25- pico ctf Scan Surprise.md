@@ -9,6 +9,8 @@ tags: [Cold_Orange, sjy, redfox999@naver.com]
 ## pico ctf Scan Surprise
 pico ctf Scan Surprise
 
-![pico ctf Scan Surprise](https://github.com/ProjectCTF/CTF-Hacking-Project/blob/main/Scan%20Surprise.JPG?raw=true){: width="500" height="400" }
+<div style="width:500px; height:400px; background-color:#f3f3f3; position:relative;">
+    <img src="https://github.com/ProjectCTF/CTF-Hacking-Project/blob/main/Scan%20Surprise.JPG?raw=true" alt="pico ctf Scan Surprise" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
