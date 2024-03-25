@@ -8,8 +8,6 @@ tags: [Cold_Orange, sjy, redfox999@naver.com]
 
 ## pico ctf Scan Surprise
 
-<p>
-  <img src="https://github.com/ProjectCTF/CTF-Hacking-Project/raw/main/Scan Surprise.JPG" alt="pico ctf Scan Surprise" style="max-width:100%; height:auto;">
-</p>
+![pico ctf Scan Surprise](https://github.com/ProjectCTF/CTF-Hacking-Project/raw/main/images/Scan_Surprise.jpg){: style="max-width:100%; height:auto;"}
 
 ---
