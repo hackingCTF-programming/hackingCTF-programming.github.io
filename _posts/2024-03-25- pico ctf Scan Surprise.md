@@ -9,6 +9,6 @@ tags: [Cold_Orange, sjy, redfox999@naver.com]
 ## pico ctf Scan Surprise
 pico ctf Scan Surprise
 
-![pico ctf Scan Surprise](https://github.com/ProjectCTF/CTF-Hacking-Project/blob/main/Scan%20Surprise.JPG){: width="500" height="400" }
+![pico ctf Scan Surprise](https://github.com/ProjectCTF/CTF-Hacking-Project/blob/main/Scan%20Surprise.JPG?raw=true){: width="500" height="400" }
 
 ---
