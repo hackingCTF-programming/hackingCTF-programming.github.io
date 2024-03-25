@@ -2,7 +2,7 @@
 title: DEX Parser 프로젝트 개요
 author: hansu1512
 date: 2024-03-25
-categories: [hansu1512, DEX Parser]
+categories: [DEX Parser]
 tags: [DEX, Android, APK]
 render_with_liquid: false
 toc: true
