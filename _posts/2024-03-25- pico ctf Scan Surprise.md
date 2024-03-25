@@ -10,3 +10,8 @@ tags: [Cold_Orange, sjy, redfox999@naver.com]
 
 ![pico ctf Scan Surprise](https://raw.githubusercontent.com/ProjectCTF/CTF-Hacking-Project/main/Scan_Surprise.JPG)
 ---
+
+
+![pico ctf Scan Surprise](https://raw.githubusercontent.com/ProjectCTF/CTF-Hacking-Project/main/Scan_Surprise2.JPG)
+
+---
