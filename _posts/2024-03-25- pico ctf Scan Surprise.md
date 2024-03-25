@@ -8,6 +8,6 @@ tags: [Cold_Orange, sjy, redfox999@naver.com]
 
 ## pico ctf Scan Surprise
 
-![pico ctf Scan Surprise](https://postfiles.pstatic.net/MjAyNDAzMjVfMjM2/MDAxNzExMzUwOTU2Mzg4.w9sDJ5boMEpBXTCmb0JBuBVD_yVXI6ogMWetk7iVuAIg.qLid-a8LfxL9Vwd2FpxeP0xlu480EZFxz-vFHy6Fo_Eg.JPEG/Scan_Surprise.JPG?type=w966){: style="max-width:100%; height:auto;"}
+![pico ctf Scan Surprise](https://blogfiles.pstatic.net/MjAyNDAzMjVfOSAg/MDAxNzExMzUxMTAyMjQx.VN7GwU1RVJa5fSjRfczW4LhIftV_TFotQSy7uU9t5LIg.hH706m4IjeQRqK4-tAdT1RPgqDEF7OFStt319K2Awkkg.JPEG/Scan_Surprise.JPG){: style="max-width:100%; height:auto;"}
 
 ---
